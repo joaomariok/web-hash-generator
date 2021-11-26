@@ -26,6 +26,10 @@ $mobile-width: 420px;
     text-decoration: none;
     -webkit-appearance: none;
     border: none;
+    
+    border-radius: 0;
+    -webkit-appearance: none;
+    -webkit-border-radius: 0;
   }
 
   .title {
